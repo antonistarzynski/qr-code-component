@@ -55,7 +55,7 @@ body {
     border-radius: 0.8rem;
 }
 
-.container h1 {
+.container header {
     color: var(--dark-blue);
     font-weight: var(--fw-b);
     font-size: 1.3rem;
